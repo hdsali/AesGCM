@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AES_GCM_Mode_test/1.0.0": {
+        "dependencies": {
+          "Portable.BouncyCastle-Signed": "1.7.0.2"
+        },
+        "runtime": {
+          "AES_GCM_Mode_test.dll": {}
+        }
+      },
+      "Portable.BouncyCastle-Signed/1.7.0.2": {
+        "runtime": {
+          "lib/portable-net45+dnxcore50+wp80+win+wpa81+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10/crypto.dll": {
+            "assemblyVersion": "1.7.0.0",
+            "fileVersion": "1.7.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AES_GCM_Mode_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Portable.BouncyCastle-Signed/1.7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aBVsV7h2b0nfKUrp63MDXH181qqC7RSf/AjuUViUigyRy7CAXC9/On7Gyg/IXM3FR/wMEbjAJXvSS3SsJiet/g==",
+      "path": "portable.bouncycastle-signed/1.7.0.2",
+      "hashPath": "portable.bouncycastle-signed.1.7.0.2.nupkg.sha512"
+    }
+  }
+}

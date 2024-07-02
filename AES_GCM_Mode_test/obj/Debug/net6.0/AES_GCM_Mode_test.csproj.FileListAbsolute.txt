@@ -1,0 +1,17 @@
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\bin\Debug\net6.0\AES_GCM_Mode_test.exe
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\bin\Debug\net6.0\AES_GCM_Mode_test.deps.json
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\bin\Debug\net6.0\AES_GCM_Mode_test.runtimeconfig.json
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\bin\Debug\net6.0\AES_GCM_Mode_test.dll
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\bin\Debug\net6.0\AES_GCM_Mode_test.pdb
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\bin\Debug\net6.0\crypto.dll
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\AES_GCM_Mode_test.csproj.AssemblyReference.cache
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\AES_GCM_Mode_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\AES_GCM_Mode_test.AssemblyInfoInputs.cache
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\AES_GCM_Mode_test.AssemblyInfo.cs
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\AES_GCM_Mode_test.csproj.CoreCompileInputs.cache
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\AES_GCM_Mode_test.csproj.CopyComplete
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\AES_GCM_Mode_test.dll
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\refint\AES_GCM_Mode_test.dll
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\AES_GCM_Mode_test.pdb
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\AES_GCM_Mode_test.genruntimeconfig.cache
+D:\WorkPlace\DotNet\test_AES_GCM\AES_GCM_Mode_test\AES_GCM_Mode_test\obj\Debug\net6.0\ref\AES_GCM_Mode_test.dll

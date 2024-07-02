@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "dHxcVdQrnh8WRw3aJ6UIZfsgV/UlXQMAHazlPw8ghyVRuJrxquerl14VeJExGDzxlXEXFMV9W1KcY3denNIX8g==",
+  "success": true,
+  "projectFilePath": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0064640728\\.nuget\\packages\\portable.bouncycastle-signed\\1.7.0.2\\portable.bouncycastle-signed.1.7.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Portable.BouncyCastle-Signed 1.7.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Portable.BouncyCastle-Signed",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

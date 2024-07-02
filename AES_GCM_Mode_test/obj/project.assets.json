@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Portable.BouncyCastle-Signed/1.7.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+dnxcore50+wp80+win+wpa81+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10/crypto.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+dnxcore50+wp80+win+wpa81+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10/crypto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Portable.BouncyCastle-Signed/1.7.0.2": {
+      "sha512": "aBVsV7h2b0nfKUrp63MDXH181qqC7RSf/AjuUViUigyRy7CAXC9/On7Gyg/IXM3FR/wMEbjAJXvSS3SsJiet/g==",
+      "type": "package",
+      "path": "portable.bouncycastle-signed/1.7.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.html",
+        "Readme.html",
+        "lib/portable-net4+sl5+wp8+win8+wpa81+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10/crypto.dll",
+        "lib/portable-net4+sl5+wp8+win8+wpa81+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10/crypto.xml",
+        "lib/portable-net45+dnxcore50+wp80+win+wpa81+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10/crypto.dll",
+        "lib/portable-net45+dnxcore50+wp80+win+wpa81+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10/crypto.xml",
+        "portable.bouncycastle-signed.1.7.0.2.nupkg.sha512",
+        "portable.bouncycastle-signed.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Portable.BouncyCastle-Signed >= 1.7.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\0064640728\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj",
+      "projectName": "AES_GCM_Mode_test",
+      "projectPath": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj",
+      "packagesPath": "C:\\Users\\0064640728\\.nuget\\packages\\",
+      "outputPath": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\0064640728\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Portable.BouncyCastle-Signed": {
+            "target": "Package",
+            "version": "[1.7.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Portable.BouncyCastle-Signed 1.7.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Portable.BouncyCastle-Signed",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
