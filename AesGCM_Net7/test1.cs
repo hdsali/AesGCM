@@ -9,5 +9,6 @@ namespace AesGCM_Net7
     internal class test1
     {
         //issue56
+        //issue ended.
     }
 }
