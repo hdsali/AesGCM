@@ -13,7 +13,7 @@ namespace AesGCM.Net7
             if (args.Length > 1) password = args[1];
             try
             {
-                var keygen = new System.Security.Cryptography.Rfc2898DeriveBytes(password, 64, 20000);
+                var keygen = new System.Security.Cryptography.Rfc2898DeriveBytes(password, 64, 10000);  //
                 var key = keygen.GetBytes(32);
                 var aesGcm = new System.Security.Cryptography.AesGcm(key);
 
