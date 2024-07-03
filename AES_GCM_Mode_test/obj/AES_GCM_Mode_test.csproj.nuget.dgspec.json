@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj": {}
+    "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj": {}
   },
   "projects": {
-    "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj": {
+    "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj",
+        "projectUniqueName": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj",
         "projectName": "AES_GCM_Mode_test",
-        "projectPath": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj",
+        "projectPath": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test.csproj",
         "packagesPath": "C:\\Users\\0064640728\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\AES_GCM_Mode_test\\obj\\",
+        "outputPath": "D:\\WorkPlace\\DotNet\\test_AES_GCM\\AES_GCM_Mode_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0064640728\\AppData\\Roaming\\NuGet\\NuGet.Config",
